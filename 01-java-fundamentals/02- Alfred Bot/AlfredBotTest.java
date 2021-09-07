@@ -1,3 +1,5 @@
+
+
 public class AlfredBotTest {
     public static void main(String[] args) {
         // Make an instance of AlfredQuotes to access all it's methods.
@@ -12,7 +14,7 @@ public class AlfredBotTest {
         String notRelevantTest = alfredBot
                 .respondBeforeAlexis("Maybe that's what Batman is about. Not winning. But failing..");
         ;
-        // System.out.println(testGreeting);
+        System.out.println(testGreeting);
         // System.out.println(testGuestGreeting);
         // System.out.println(testDateAnnouncement);
         // System.out.println(alexisTest);
