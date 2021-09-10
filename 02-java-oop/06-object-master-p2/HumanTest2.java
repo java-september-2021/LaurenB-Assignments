@@ -3,12 +3,12 @@ public class HumanTest2 {
         Ninja n = new Ninja();
         Wizard w = new Wizard();
         Samurai s = new Samurai();
-
+        
         n.runAway();
-        n.steal(n);
-        w.fireball(w);
-        w.heal(w); 
-        s.deathBlow(s);
+        n.steal(w);
+        w.fireball(n);
+        w.heal(s); 
+        s.deathBlow(w);
         s.Meditate();
         Samurai.howMany();
         
