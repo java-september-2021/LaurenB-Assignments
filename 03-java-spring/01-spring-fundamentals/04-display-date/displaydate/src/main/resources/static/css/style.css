@@ -1,0 +1,19 @@
+.blue {
+	color: blue;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.green {
+	color: green;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.link {
+	display:flex;
+	flex-direction: row;
+	align-content: space between;
+	text-align: center;
+	padding-top: 100px;
+}
