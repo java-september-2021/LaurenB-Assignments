@@ -1,0 +1,80 @@
+.table{
+	width: 850px;
+	margin-left: 250px;
+	color: white;
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	color: white;
+}
+
+body {
+	background-image: url(https://media.istockphoto.com/vectors/abstract-black-stripes-diagonal-background-vector-id1294603953?k=20&m=1294603953&s=612x612&w=0&h=KLAV73oMUFA2ucWMMTOdXT8Vn4LVUsh6NTiXRmlX5ZA=);
+}
+
+.landing {
+	text-align: center;
+	color:white;
+	padding-top: 250px;
+}
+
+.add-new-container {
+	display: flex;
+	justify-content: center;
+	padding-top: 150px;
+	color: white;
+}
+
+.anchor {
+	display: flex;
+	justify-content:flex-end;
+	padding-top: 20px;
+	padding-right: 100px;
+}
+
+.bttn {
+	margin-left:145px;
+	margin-top: 20px;
+}
+
+.header {
+	color: white;
+	padding-left:100px;
+	padding-bottom: 15px;
+}
+
+.errors {
+	color:white;
+}
+
+.subclass {
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	color: white;
+	border-style: solid;
+	border-color: white;
+	width: 750px;
+	margin-left: 50px;
+	margin-top: 150px;
+}
+
+.bttn2 {
+	margin-left: 300px;
+}
+
+.info {
+	margin-left: 100px;
+}
+
+
+
+
+
+
+
+
